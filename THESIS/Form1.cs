@@ -22,8 +22,7 @@ namespace THESIS
         }
         IFirebaseConfig ifconfig = new FirebaseConfig()
         {
-            AuthSecret= "Ofn5u4PWSwSNS1TF6VhE9k2f2LCYnlGlzn9N5Nqz",
-            BasePath= "https://bustedin-ka-sana-ni-jean-default-rtdb.firebaseio.com/"
+            
 
         };
 
